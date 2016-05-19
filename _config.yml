@@ -1,0 +1,28 @@
+name: Safari Eye
+favicon: null
+layout_spectrum: 0.6209165302570909
+typography_spectrum: 0.2003014583606273
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.34300917759537697
+  lightness: 0.3869283003732562
+  saturation: 0.2099453480914235
+  rhythmicContrast: 0.1519224310759455
+purpose: []
