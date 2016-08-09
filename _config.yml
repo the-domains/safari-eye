@@ -1,7 +1,7 @@
 name: Safari Eye
 favicon: null
-layout_spectrum: 0.6209165302570909
-typography_spectrum: 0.2003014583606273
+layout_spectrum: 0.24169
+typography_spectrum: 0.52046
 title: 'PHOTOGRAPHY EVENTS '
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#c0a989'
     - '#fee8d2'
   brandStrength: 0.8125
-  lightness: 0.3869283003732562
+  lightness: 0.5
   saturation: 0.875
   rhythmicContrast: 0.5
 purpose: []
