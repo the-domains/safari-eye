@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[PHOTOGRAPHY EVENTS ]]></title>
-        <description><![CDATA[PHOTOGRAPHY EVENTS ]]></description>
+        <title><![CDATA[FILM &PHOTOGRAPHY WORKSHOPS ]]></title>
+        <description><![CDATA[FILM &PHOTOGRAPHY WORKSHOPS ]]></description>
         <link>https://thegrid.ai/safari-eye/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 22:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 14:40:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/safari-eye/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SAFARI EYES BTS .mp4]]></title>
+            <description><![CDATA[<article><h1>SAFARI EYES BTS .mp4</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/971412e66ed424fd1d2f2d783a515c25/noop?input=https%3A%2F%2Flh5.googleusercontent.com%2F1pW5xYkyyj7DOmZVh7ndFo820cHb6u0mUwe56rGOpmmmqW9x0_qr9A%3Dw1200-h630-p"></article>]]></description>
+            <link>https://drive.google.com/file/d/0B-ZKp4qfCKNUXzhGbW8tRTFOR2s/view?pref=2&amp;pli=1</link>
+            <guid isPermaLink="false">4dc19e7b-b82b-4107-b4ec-e5a176c0a3e2</guid>
+            <pubDate>Wed, 10 Aug 2016 14:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/safari-eye/93c67c3c-c00d-48a2-9a2e-1127bd0a8906/index.html</link>
+            <guid isPermaLink="false">93c67c3c-c00d-48a2-9a2e-1127bd0a8906</guid>
+            <pubDate>Wed, 10 Aug 2016 14:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc9f2dcb-0537-4d41-b5e0-ff695cf35ba6.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/safari-eye/bb43faa1-bcc3-42c0-8f2a-8c3ee82853f0/index.html</link>
             <guid isPermaLink="false">bb43faa1-bcc3-42c0-8f2a-8c3ee82853f0</guid>
             <pubDate>Tue, 09 Aug 2016 21:55:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59c48a09-db74-42ba-b92d-99d88dfeaebd.png">]]></description>
-            <link>https://thegrid.ai/safari-eye/7f7d3948-fed7-4f82-89ec-19561ed6ab6f/index.html</link>
-            <guid isPermaLink="false">7f7d3948-fed7-4f82-89ec-19561ed6ab6f</guid>
-            <pubDate>Tue, 09 Aug 2016 21:54:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0908d51-9078-4c90-8dd7-3d18287ef3a9.png">]]></description>
-            <link>https://thegrid.ai/safari-eye/2d239db9-13aa-436f-a297-eef499efc744/index.html</link>
-            <guid isPermaLink="false">2d239db9-13aa-436f-a297-eef499efc744</guid>
-            <pubDate>Tue, 09 Aug 2016 21:53:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
