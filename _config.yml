@@ -1,20 +1,4 @@
-name: Safari Eye
-favicon: null
-layout_spectrum: 0.24169
 typography_spectrum: 0.52046
-title: 'PHOTOGRAPHY EVENTS '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#010101'
@@ -26,4 +10,20 @@ color:
   lightness: 0.6875
   saturation: 0
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.24169
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Safari Eye
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'PHOTOGRAPHY EVENTS '
 purpose: []
