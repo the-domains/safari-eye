@@ -9,16 +9,14 @@ publisher:
 keywords: []
 description: ''
 app_links: []
-isBasedOnUrl: 'https://drive.google.com/file/d/0B-ZKp4qfCKNUXzhGbW8tRTFOR2s/view?pref=2&pli=1'
 title: SAFARI EYES BTS .mp4
-datePublished: '2016-08-10T16:58:37.864Z'
-dateModified: '2016-08-10T16:58:29.889Z'
+datePublished: '2016-08-14T12:26:39.773Z'
+dateModified: '2016-08-14T12:26:38.780Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-10-safari-eyes-bts-mp4.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: safari-eyes-bts-mp4/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
