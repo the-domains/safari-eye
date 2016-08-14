@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: SAFARI EYES BTS .mp4
+    id: 9b62ee84-fbf9-4f63-9093-d7343b899faf
+    type: content
 favicon: null
 title: 'FILM &PHOTOGRAPHY WORKSHOPS '
 description: Shoot to thrill!
